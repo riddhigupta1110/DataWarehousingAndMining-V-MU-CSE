@@ -1,3 +1,6 @@
+#pip install networkx
+#pip install scipy
+
 import networkx as nx
 import matplotlib.pyplot as plt
 
